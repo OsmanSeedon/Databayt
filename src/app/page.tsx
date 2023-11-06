@@ -8,7 +8,8 @@ import Team from '@/components/Team'
 
 import Mobile from '@/components/Mobile'
 import Footer from '@/components/Footer'
-import Contribute from '@/components/contribute'
+import Contribute from '@/components/Contribute'
+
 
 
 export default function Home() {
