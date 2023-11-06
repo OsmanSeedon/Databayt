@@ -8,7 +8,7 @@ const Team = () => {
         
         <Image 
         className='rounded-full '
-        src="/osman.png"
+        src="/github.png"
         width={50}
         height={50}
         alt="Team member"

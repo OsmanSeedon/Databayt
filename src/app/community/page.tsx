@@ -1,3 +1,4 @@
+import Folder from '@/components/Folder'
 import Header from '@/components/Header'
 import Mobile from '@/components/Mobile'
 import Search from '@/components/Search'
@@ -9,6 +10,7 @@ const Community = () => {
     <Header />
     <Search />
     <Mobile />
+    <Folder />
     </div>
   )
 }
