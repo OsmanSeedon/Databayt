@@ -14,8 +14,8 @@ const Burger = () => {
     
         <div className={`w-5 h-0.5 bg-black ${open ? 'rotate-45 translate-y-0.5' : '-translate-y-1'}`} />
         <div className={`w-5 h-0.5 bg-black ${open ? '-rotate-45 -translate-y-0.6' : 'translate-y-1'}`} />
-
     </button>
+    
   )
 }
 

@@ -1,9 +1,6 @@
 "use client";
-import { NAV_LINKS } from '@/constants';
-import Link from 'next/link'
-import React, { useState } from 'react'
-import Burger from './Burger';
-import Databayt from './Databayt';
+import Burger from '../Menu/Burger';
+import Databayt from '../Text/Databayt';
 import Nav from './Nav';
 
 

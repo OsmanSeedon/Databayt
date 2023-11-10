@@ -1,7 +1,7 @@
 
-import Header from '@/components/Header'
-import Mobile from '@/components/Mobile'
-import Search from '@/components/Search'
+import Header from '@/components/Nav/Header'
+import Mobile from '@/components/Nav/Mobile'
+import Search from '@/components/Search/Search'
 import React from 'react'
 
 const Blog = () => {
