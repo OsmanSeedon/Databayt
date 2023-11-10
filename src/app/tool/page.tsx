@@ -21,7 +21,10 @@ const Tool = () => {
       </div>
       {toolData.map((values) => {
         return (
-          <div className="py-[3PX]">
+        
+          
+          <div className="py-[3PX]"
+          key={values.id}>
             <Tools
               id={values.id}
               title={values.title}
