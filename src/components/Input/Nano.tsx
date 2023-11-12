@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Search = () => {
+const NanoInput = () => {
   return (
     <div>
         <input
@@ -12,4 +12,4 @@ const Search = () => {
   )
 }
 
-export default Search
+export default NanoInput

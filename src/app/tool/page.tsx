@@ -1,7 +1,7 @@
 import Tools from "@/components/Card/Tool";
 import Header from "@/components/Nav/Header";
 import Mobile from "@/components/Nav/Mobile";
-import Search from "@/components/Search/Search";
+import Search from "@/components/Input/Nano";
 import toolData from "@/constants/tool";
 import React from "react";
 
