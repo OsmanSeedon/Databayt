@@ -28,7 +28,7 @@ const Team = () => {
 
           <div className="flex flex-col ">
             <MicroText text="Osman" />
-            <MicroText text="Abdout" />
+            <MicroText text="Seedon" />
           </div>
         </div>
       </div>
