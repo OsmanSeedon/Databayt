@@ -4,8 +4,10 @@ const CentiInupt = (props: { placeholder: string }) => {
   return (
     <div>
       <input
-        className="w-full text-[14px] tracking-wider font-thin px-4 py-2
-         border border-gray-500 bg-[#FCFCFC] focus:border-black hover:border-black"
+        className="w-full h-[39px] px-[15px] py-1.5
+         bg-neutral-50 border border-black justify-center items-center gap-[180px] inline-flex"
+        
+         
         type="text"
         placeholder={props.placeholder}
       />
